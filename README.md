@@ -28,3 +28,9 @@ Note: Detailed information regarding the dataset generation, preprocessing, augm
 - CNNs performed well on the base dataset, achieved 88% testing accuracy using MFCCs. Failed to generate results for augmented dataset due to computational restraints.
 - SVMs perfomed almost equally well on augmented dataset.
 - MFCCs appear to be best discriminator among audio features.
+
+**Contributions**
+- Aryaman Trivedi: Experiment design, data preprocessing, dataset generation, data augmentation, report
+- Palaash Goel: Experiment design, CNN model, report
+- Ieshaan Awasthy: Flattened data models, report
+- Divyajeet Singh: Report compilation
