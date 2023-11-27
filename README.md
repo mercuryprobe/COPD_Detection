@@ -1,4 +1,4 @@
-# COPD_Detection
+# COPD Detection
 Detection of COPDs from the [ICBHI 2017 Challenge dataset](https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge).
 
 Note: Detailed information regarding the dataset generation, preprocessing, augmentation and prediction pipeline can be found in [The Report](https://github.com/mercuryprobe/COPD_Detection/blob/main/Report.pdf).
