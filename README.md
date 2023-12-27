@@ -1,7 +1,7 @@
 # COPD Detection
 Detection of COPDs from the [ICBHI 2017 Challenge dataset](https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge).
 
-Note: Detailed information regarding the dataset generation, preprocessing, augmentation and prediction pipeline can be found in [The Report](https://github.com/mercuryprobe/COPD_Detection/blob/main/Report.pdf).
+Note: Detailed information regarding the dataset generation, preprocessing, augmentation and prediction pipeline can be found in [The Report](https://github.com/mercuryprobe/COPD_Detection/blob/main/report/main.pdf).
 
 **Motivation**
 - Medical professionals typically demonstrate low accuracies at detecting the presence of COPDs using Auscultation sounds [Yoonjoo Kim et al., 2021](https://www.nature.com/articles/s41598-021-96724-7).
